@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+mo# Personal Portfolio Website
 
 A simple and elegant personal portfolio website template built with HTML and CSS.
 
@@ -32,6 +32,6 @@ A simple and elegant personal portfolio website template built with HTML and CSS
 
 ## Credits
 
-Created by [Prayush Adhikari]
+Pushpendra Solanki
 
 Feel free to use and modify this template for your personal portfolio website.
